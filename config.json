@@ -1,11 +1,11 @@
 {
-  "ownerNumber":  ["6281804680327@s.whatsapp.net"],
-  "botName": "Dash - Bot",
-  "packname" : "Dash Bot",
-  "author" : "❤️ Multi-Device ❤️",
+  "ownerNumber":  ["6282160268332@s.whatsapp.net"],
+  "botName": ""𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒 𝐵𝑜𝑡,
+  "packname" : "Experience Bot",
+  "author" : "Galaxy Teams",
   "Prefix" : "Multi",
   "sessionName": "Dash",
   "Mode": "Public",
-  "pathImg": "./media/Dash.jpg",
+  "pathImg": "./media/Experience.jpg",
   "fakeImg": "./media/fake.jpg"
 }
